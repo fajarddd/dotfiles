@@ -54,4 +54,4 @@
   defaultBranch = master
 [user]
 	email = andres@fajardd.com
-	name = gh api user/emails | jq -r '.[].email'
+	name = Andres Fajardo
